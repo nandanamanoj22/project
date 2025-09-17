@@ -1,0 +1,22 @@
+/* body{
+    background-image: url("./assets/flower.jpeg")
+    }
+    h3{
+        color: brown;
+    }
+    h2{
+        color: blueviolet;
+    }
+    .section-title{
+        color: burlywood;
+    } */
+    *{
+       margin: 0;
+       padding: 0;
+       box-sizing: boarder-box;
+    }
+    h1{
+        border: 1px solid;
+        padding:  20px;
+        margin: 0;
+    }
